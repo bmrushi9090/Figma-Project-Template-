@@ -1,0 +1,145 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+.head a {
+    padding-left: 100px;
+    font-size: 40px;
+}
+
+.head-1 {
+    display: flex;
+    justify-content: end;
+    padding-right: 70px;
+}
+
+.btn {
+    border-radius: 15px;
+    background-color: rgb(50, 118, 236);
+    padding: 7px 40px;
+    /* width: 80px; */
+}
+
+.snav {
+    font-size: 20px;
+    padding-left: 90px;
+    margin-top: 50px;
+}
+
+.cnav {
+    /* padding-left: 90px; */
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+
+.cnav-1 {
+    display: flex;
+    justify-content: center;
+}
+
+.cnav span {
+    margin: 0 30px;
+}
+
+.hnav {
+    padding-left: 100px;
+    margin-top: 50px;
+}
+
+.cont {
+    /* display: flex;
+    justify-content: center; */
+}
+
+.hcont {
+    text-align: center;
+    /* align-items: center; */
+}
+
+.demo {
+    width: 700px;
+    height: 400px;
+    background-color: rgb(50, 118, 236);
+    display: flex;
+    justify-content: center;
+    color: white;
+    /* text-align: center; */
+    align-items: center;
+    border-radius: 50px;
+}
+
+.demo1 {
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+
+.play {
+    display: flex;
+    justify-content: center;
+}
+
+.play h6 {
+    margin: 0 30px;
+}
+
+.footer {
+    margin-top: 70px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.name {
+    margin-left: 100px;
+}
+
+.box {
+    margin: 20px 100px;
+}
+
+.mbox {
+    margin: 40px 0px;
+    border-radius: 10px;
+}
+
+.atag {
+    position: absolute;
+    margin-left: 237px;
+    margin-top: 50px;
+}
+
+.idea{
+    position: absolute;
+    margin-left: 385px;
+    margin-top: 100px;
+    font-weight: bold;
+    color: white;
+}
+
+.volume {
+    font-weight: bold;
+    position: absolute;
+    color: white;
+    margin-left: 908px;
+    margin-top: 110px;
+}
+
+.cnav span:hover{
+    color:rgb(50, 118, 236) ;
+}
+
+.snav p:hover{
+    color:rgb(50, 118, 236) ;
+}
+
+.head-1 ul li a:hover{
+    color:rgb(50, 118, 236) ;
+}
+
+.cl{
+    color:rgb(13, 44, 99) ;
+}
